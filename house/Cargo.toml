@@ -1,0 +1,15 @@
+[package]
+name = "house"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+winit = "0.30"
+wgpu = "0.19"
+env_logger = "0.11"
+wasm-bindgen = "0.2.104"
+anyhow = "1.0.100"
+wasm-bindgen-futures = "0.4.54"
+log = "0.4.28"
+pollster = "0.3.0"
+
